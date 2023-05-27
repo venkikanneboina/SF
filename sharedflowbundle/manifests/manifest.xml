@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="VA-ValidateKey" version="SHA-512:d9ffa7dcf2bdd01159c74a9894a99c1b7991a844dbfec2174848a7a726aca231c1a035cdb2baa60689b36d566d33972aed129825e267e45a0b5e9936ba119fc8"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources/>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="SHA-512:50fc0cbb0dd2a2018ac315ea63bb3cbbb9a6ef20f077a662191eb97e8e783b7910e89de3636b40581b5c772e769d65ab3b014acb33125ec0e1031d92b9173ec0"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

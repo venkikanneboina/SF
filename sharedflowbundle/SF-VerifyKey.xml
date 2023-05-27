@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlowBundle revision="1" name="SF-VerifyKey">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1667823011599</CreatedAt>
+    <CreatedBy>venkikanneboina@gmail.com</CreatedBy>
+    <Description>undefined</Description>
+    <DisplayName>SF-VerifyKey</DisplayName>
+    <LastModifiedAt>1667823047070</LastModifiedAt>
+    <LastModifiedBy>venkikanneboina@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:4dd498200df4a62471f8644f6910d1d1da3cd6d973f275bb9437ffb08b6fb29e1329ea9da12c0ae58ee8c81415a4ed326ef50f388c3125497b6c1f280707daa3:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>VA-ValidateKey</Policy>
+    </Policies>
+    <Resources/>
+    <Spec></Spec>
+    <subType>SharedFlow</subType>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+</SharedFlowBundle>
